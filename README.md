@@ -1,4 +1,4 @@
-Analysis of Pizza Sales Data (2015)
+**Analysis of Pizza Sales Data (2015)**
 
 Data Source: Kaggle
 
